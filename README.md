@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm currently learning computer science via Higher School of Economics, located in Moscow.
+
 My specialization is called "Computing and Data Science", field of study with the codifier "Applied Mathematics and Informatics" 01.03.02
 
 <!--
