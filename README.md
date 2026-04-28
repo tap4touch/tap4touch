@@ -2,7 +2,7 @@
 
 I'm learning computer science via Higher School of Economics, located in Moscow.
 
-My stydying program is called "Computing and Data Science", field of study with the codifier "Applied Mathematics and Informatics" 01.03.02.
+My educational program is called "Computing and Data Science", field of study with the codifier "Applied Mathematics and Informatics" 01.03.02.
 
 Even though I'm studying at the Moscow univesity, my program is online and I'm free for any relocation 😄
 
